@@ -1,7 +1,7 @@
 # PML1
 Proyecto Modelo de Riesgo de Crédito 
 
-1.
+1)
 Realiza un modelo de clasificación para la tabla de datos que viene en el Excel anexo ‘data’.
 La finalidad del modelo es calcular la probabilidad de impago de una muestra de 12,660 créditos otorgados.
 La variable objetivo es “ind_malo” donde 0 es que si pagó y 1 es que no pagó.
@@ -17,7 +17,8 @@ d.	Regresión Logistica
 4.	Medidas de desempeño:
 a.	A consideración del evaluado (Justificar las medidas utilizadas)
 5.	Una vez entrenado un modelo y eligiendo el mejor, realizar las predicciones para el conjunto de datos ‘data_to_predict’ y compartir un archivo csv con columnas ID,ind_malo_predicted (Se evaluarán automáticamente las métricas de desempeño por lo que es importante este formato)
-2.
+
+2)
 Realizar una presentación con los resultados más importantes del modelo y desarrolla alguna idea de estrategia que se podría realizar con este modelo bajo el supuesto de que actualmente no se estén utilizando modelos.
 ¿Cómo podría ayudar este modelo para mejorar la originación de créditos?
 ¿Qué métricas serian relevantes medir al ya usarse una estrategia con el modelo?
