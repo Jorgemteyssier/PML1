@@ -1,5 +1,6 @@
 # PML1
 Proyecto Modelo de Riesgo de Crédito 
+
 1.
 Realiza un modelo de clasificación para la tabla de datos que viene en el Excel anexo ‘data’.
 La finalidad del modelo es calcular la probabilidad de impago de una muestra de 12,660 créditos otorgados.
